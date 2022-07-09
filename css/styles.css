@@ -42,6 +42,7 @@ hr {
 p {
     color: black;
     font-weight: 800;
+
 }
 
 
@@ -60,10 +61,15 @@ p {
     padding-bottom: 20px;
 }
 
+.central-data {
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
 .contact-me {
     margin-bottom: 50px;
 }
-
 
 .middle-container {
     padding-top: 50px;
