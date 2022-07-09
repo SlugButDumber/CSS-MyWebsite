@@ -1,0 +1,177 @@
+/************************* Elements *************************/
+
+a {
+    color: #11999E;
+}
+
+body {
+    font-family: 'Arima', cursive;
+    margin: 0%;
+    text-align: center;
+}
+
+h1 {
+    font-family: 'Sacramento', cursive;
+    font-size: 6.5rem;
+    margin: 50px auto 0 auto;
+}
+
+h2{
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 2.5rem;
+    font-weight: 1200;
+    color: navy;
+}
+
+h3{
+    font-family: 'Josefin Sans', sans-serif;
+    color: navy;
+    font-size: 1.5rem;
+    
+}
+
+hr {
+    border-color: #ffe3a3;
+    border-style: none;               
+    border-top-style: dotted;    
+    border-width: 7px;
+    width: 10%; 
+    margin: 80px auto 80px auto;
+}
+
+p {
+    color: black;
+    font-weight: 800;
+}
+
+
+/************************* Classes *************************/
+
+
+.bottom-cloud {
+    bottom: 300px;
+    left: 300px;
+    position: absolute;
+}
+
+.bottom-container {
+    background-color: #fbf1d9;
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+
+.contact-me {
+    margin-bottom: 50px;
+}
+
+
+.middle-container {
+    padding-top: 50px;
+}
+
+
+.skill-row {
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+
+.top-cloud {
+    position: absolute;
+    right: 300px;
+    top: 50px;
+}
+
+.top-container {
+    background-color: #fbf1d9;
+    color: navy;
+    position: relative;
+    padding-top: 100px;
+    
+}
+
+.underline {
+    text-decoration: underline;
+}
+
+/******************************************* IDs *******************************************/
+
+#a-student{
+    font-size: 2rem;
+    font-weight: 900;
+    margin-top: 20px;
+}
+
+#books-gif {
+    height: 130px;
+    float: right;
+    margin-left: 30px;
+}
+
+#coding-gif {
+    height: 130px;
+    float: left;
+    margin-right: 30px;
+}
+
+#contact-gmail {
+    height: 30px;
+}
+
+#contact-gmail:hover {
+    height: 35px;
+}
+
+#contact-insta {
+    height: 27px;  
+}
+
+#contact-insta:hover {
+    height: 30px;  
+    position: relative;
+    bottom: 5px;
+}
+
+#contact-linkedin {
+    height: 27px;
+    position: relative;
+    right: 10px;
+    bottom: 2px;
+}
+
+#contact-linkedin:hover {
+    height: 30px;
+    position: relative;
+    right: 10px;
+    bottom: 7px;
+}
+
+#contact-twitter {
+    height: 27px;
+    position: relative;
+    left: 10px;
+}
+
+#contact-twitter:hover {
+    height: 30px;
+    position: relative;
+    left: 10px;
+    bottom: 5px;
+}
+
+#copyright {
+    margin-bottom: 0%;
+    color: navy;
+    font-weight: 400;
+}
+
+#profile-pic {
+    height: 200px;
+}
+
+#profile-pic:hover {
+    
+    position: relative;
+    bottom: 10px;
+}
